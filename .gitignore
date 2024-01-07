@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+GdiPrint_OpenPrinter/x64/Debug/GdiPrint.1094eb2e.tlog/link.read.1.tlog
+
+x64/
+.vs/
